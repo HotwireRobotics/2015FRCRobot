@@ -134,6 +134,7 @@ AddOutputFilter chunkFilter
 		<Item Name="PID.vi" Type="VI" URL="../../PID.vi"/>
 		<Item Name="Robot Global Data.vi" Type="VI" URL="../Robot Global Data.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
+		<Item Name="TESTING (Useless).vi" Type="VI" URL="../TESTING (Useless).vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
