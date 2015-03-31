@@ -33,7 +33,6 @@
 			</Item>
 			<Item Name="FRC Simulated.xml" Type="Document" URL="../../Mecanum Prototype v5/Mecanum Prototype v1/FRC Simulated.xml"/>
 		</Item>
-		<Item Name="Robot Simulation Readme.html" Type="Document" URL="../../Mecanum Prototype v5/Mecanum Prototype v1/Robot Simulation Readme.html"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
