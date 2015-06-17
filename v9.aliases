@@ -1,5 +1,9 @@
 [My Computer]
+<<<<<<< HEAD
 My Computer = "169.254.218.162"
+=======
+My Computer = "172.20.3.34"
+>>>>>>> origin/master
 
 [Target]
 Target = "roboRIO-2990.local"
